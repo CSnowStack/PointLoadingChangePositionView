@@ -7,3 +7,9 @@ a simple animator
 
 ## preview
 ![preview](https://github.com/CSnowStack/PointLoadingChangePositionView/blob/master/imgs/c.gif)
+
+
+
+## Video
+
+https://github.com/CSnowStack/PointLoadingChangePositionView/blob/master/imgs/preview.mp4
